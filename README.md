@@ -1,2 +1,1 @@
-# juego_del_jrex
-El jueguito de google
+# C18_LP_AA1
